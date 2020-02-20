@@ -15,3 +15,8 @@ This website shares the codes of the "Towards Scale-Free Rain Streak Removal via
 2. Install PyTorch and dependencies from http://pytorch.org 
 
 （**Note**: the code is suitable for PyTorch 0.4.0）
+
+
+## Contact
+
+If you have questions, you can contact `yangwenhan@pku.edu.cn`.
