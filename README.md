@@ -1,6 +1,6 @@
 # AAAI-2020-FBL-SS
 
-This website share the codes of the "Towards Scale-Free Rain Streak Removal via Self-Supervised Fractal Band Learning", AAAI-2020.
+This website shares the codes of the "Towards Scale-Free Rain Streak Removal via Self-Supervised Fractal Band Learning", AAAI-2020.
 
 ## Prerequisites:
 
